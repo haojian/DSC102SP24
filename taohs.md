@@ -14,7 +14,7 @@ permalink: /taohs/
 - The TA OHs will be in-person only at the open area near HDSI 345.
 
 - Ariane Yu's OHs:
-    - Regular OHs: Tuesday 1:00 PM - 2:00 PM (no OH on Nov 7)
+    - Regular OHs: TBD
 
 - Tony Li's OHs:
-    - Regular OHs: Thursday 1:00 PM - 2:00 PM
+    - Regular OHs: TBD
