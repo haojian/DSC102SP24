@@ -1,6 +1,6 @@
 ---
 type: exam
-date: 2023-12-15T15:0:0+3:30
+date: 2024-06-12T15:0:0+3:30
 description: 'Final exam'
 hide_from_announcments: true
 ---
