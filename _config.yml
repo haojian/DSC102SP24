@@ -1,0 +1,52 @@
+# Site settings
+course_name: DSC 102 - Systems for Scalable Analytics
+course_description: "Data science professionals ought to be familiarized with data systems from a user's standpoint, as opposed to the conventional approach of a system implementer."
+course_semester: "Spring 2024"
+
+baseurl: "/DSC102SP24" # the subpath of your site, e.g. /blog/
+url: "http://haojian.github.io" # the base hostname & protocol for your site
+
+schoolname: "University of California San Diego"
+schoolurl: "https://ucsd.edu/"
+twitter_username: haojian_jin 
+
+address: |
+    9500 Gilman Dr
+    La Jolla
+    CA 92093
+
+# Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
+# google_analytics: UA-XXXXXXXX-X
+
+### Do not change the followings unless you know what you are doing ###
+
+# Build settings
+markdown: kramdown
+
+# Other options
+permalink: blog/:year/:month/:title
+excerpt_separator: "<!--more-->"
+
+include: ['_images', '_css']
+exclude: ['develop']
+
+dateformat: "%m/%d/%Y"
+
+future: true
+collections:
+    events:
+        output: true
+    lectures:
+        output: true
+    assignments:
+        output: true
+    announcements:
+        output: false
+
+
+defaults:
+  - scope:
+      path: ""
+      type: "assignments"
+    values:
+      layout: "assignment"

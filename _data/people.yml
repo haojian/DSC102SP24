@@ -1,0 +1,15 @@
+instructors:
+  - name: Haojian Jin
+    profile_pic: /_images/pp/haojian.jpg
+    webpage: http://haojianj.in/
+
+
+teaching_assistants:
+  - name: Rohit Ramaprasad
+    profile_pic: /_images/pp/rohit.png
+
+  - name: Sai Sree Harsha
+    profile_pic: /_images/pp/sai_photo.jpeg
+
+  - name: Golokesh Patra
+    profile_pic: /_images/pp/golokesh.jpeg
