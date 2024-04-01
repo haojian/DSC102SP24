@@ -10,7 +10,7 @@ A major component of this course is hands-on Python programming to implement dat
 
 ## Administrivia
 
-**Lectures**: MWF 03:00PM-03:50PM; CENTR 214
+**Lectures**: MWF 03:00PM-03:50PM; Mandeville Center - B-202
 
 **Instructor**: [Haojian Jin](http://haojianj.in/); Office: HDSI 341; Office Hours: Wednesday 4:00 pm-5:00 pm
 
@@ -27,16 +27,16 @@ A major component of this course is hands-on Python programming to implement dat
     - See the PAs page for the PA schedule and details.
     - There are no late days for the PAs. Plan your work accordingly.
 
-- 12 Peer Instruction activities via iClickers.
-    - They will be held live in class using iClicker, spread randomly across the quarter.
+- 12 Peer Instruction activities.
+    - They will be held live in class through Google Forms/Sli.do, spread randomly across the quarter.
     - Each activity will have 2 multiple-choice questions (MCQ). Quantitative problems may exist but only the final answer will need to be selected. No partial credits.
     - For each question, you must first answer individually. Then you can discuss the question with you neighbor(s). After that, you can answer the question again.
     - These activities are also open books/notes/electronics/Web.
     - Grading is based on earnest participation in the whole activity.
     - If you miss an activity, you will get no credit for it, unless you notify the instructor in advance with a university approved reason.
     - You can miss up to 2 activities out of the 12 without losing credit.
-    - Make sure to bring your clicker to every lecture. If you happen to forget it one day, submit your written answers on a sheet.
-    - You are allowed to possess only your own clicker. Using someone else's clicker is an academic integrity violation that will entail serious consequences as listed below.
+    - Make sure to bring your laptop/smartphone to every lecture. 
+
 
 - Midterm exam and cumulative final exam.
     - The midterm and final exams will be held in-person only.
@@ -45,7 +45,9 @@ A major component of this course is hands-on Python programming to implement dat
     - If you miss an exam, you will get no credit for it, unless you notify the instructor in advance with a university approved reason and receive a makeup exam slot.
     - The midterm and final are closed books/notes/electronics/web. You are allowed to keep with you two A4-sized sheets (four sides) with any content you want for the midterm, and four A4-sized sheets (eight sides) for the final. You may also use pocket calculators (i.e. the ones that don’t have non-volatile memory) as there will be some light math involved.
 
+
 - The discussion slots will be used by the TAs to give talks about the PAs. I might also use them for review discussions before the two exams.
+
 
 ## Pre-requisites
 
@@ -61,11 +63,12 @@ A major component of this course is hands-on Python programming to implement dat
 - Programming assignments: 8% + 16% + 16%
 - In-class peer instruction activities: 10%
 - Cumulative final: 35%
-- Extra credit: 4% (likely)
+- Extra credit: 2% (likely)
 
 
 **Cutoffs**: 
 The grading scheme is a hybrid of absolute and relative grading. The absolute cutoffs are based on your absolute total score. The relative bins are based on your position in the total score distribution of the class. The better grade among the two (absolute-based and relative-based) will be your final grade.
+
 
 
 <table style="border: 1px solid black;">
@@ -138,8 +141,8 @@ The grading scheme is a hybrid of absolute and relative grading. The absolute cu
 
 ## Exam Dates
 
-- Midterm (TBD)
-- Final Exam: 3:00-6:00 PM PT, 15 December 2023
+- Midterm (TBD). During one of our classes.
+- Final Exam: 3:00-6:00 PM PT, TBD
 
 ## Classroom Rules
 - <code>No late days</code> for submitting the PAs. No extensions on the final exam time window. Plan all your work well up front accordingly.
